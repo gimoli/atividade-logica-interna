@@ -147,4 +147,3 @@ aqui
 // fraca: 2 requisitos
 // muito fraca: 1 requisito
 // invalida: 0 requisitos
-

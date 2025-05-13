@@ -122,7 +122,6 @@
 // console.log("5. Força da senha 'Abc123!@':", verificarForcaSenha("Abc123!@")); // forte
 // console.log("5. Força da senha 'abc123':", verificarForcaSenha("abc123")); // invalida
 
-aqui
 
 // Crie uma função que retorne a quantidade de itens de um array
 // (não pode usar length)
@@ -147,4 +146,3 @@ aqui
 // fraca: 2 requisitos
 // muito fraca: 1 requisito
 // invalida: 0 requisitos
-

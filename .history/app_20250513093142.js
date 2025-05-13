@@ -122,29 +122,4 @@
 // console.log("5. Força da senha 'Abc123!@':", verificarForcaSenha("Abc123!@")); // forte
 // console.log("5. Força da senha 'abc123':", verificarForcaSenha("abc123")); // invalida
 
-aqui
-
-// Crie uma função que retorne a quantidade de itens de um array
-// (não pode usar length)
-
-// Crie uma função que retorne todos os números pares deste array [1,2,3,4,5,6,7,8,9,10]
-// (não pode usar filter)
-
-// Crie uma função que transforme frases de snake_case para camelCase
-// (não pode usar replace, split, join)
-
-// Crie uma função que retorne "true" caso todos os itens de um array obedecerem a uma condição 
-// (não pode usar map, every)
-
-// Crie uma função em que verifica a força da senha:
-// - Letra Maiuscula
-// - numero
-// - caractere especial
-// - minimo 8 careteres (obrigatorio)
-
-// forte: 4 requisitos
-// medio: pelo menos 3 requisitos
-// fraca: 2 requisitos
-// muito fraca: 1 requisito
-// invalida: 0 requisitos
 
